@@ -123,10 +123,10 @@ function App() {
       <div>
         <a href={wallet.currentAccount?.address ? "https://suiexplorer.com/address/" + wallet.currentAccount?.address : "https://suiexplorer.com"}
           target="_blank">
-          <img src="/assets/image/Sui.png" className="logo sui" alt="Sui Explorer" />
+          <img src="/assets/image/ProjectX-logo.png" className="logo sui" alt="Sui Explorer" />
         </a>
       </div>
-      <h1>SUI Merge Coins</h1>
+      <h1>$SUI Merge Coins</h1>
       <div>
         <p>
           A tool to help you merge coins when there are too many objects that cannot be transferred or swapped for other coins
@@ -193,6 +193,11 @@ function App() {
             logs
           )}
         </p>
+      </div>
+      <div>
+        You can find the code on <a href="https://github.com/cosinguyen/sui-merge-coin" target="_blank">
+          Github
+        </a>
       </div>
     </>
   )
