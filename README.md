@@ -1,5 +1,5 @@
 # SUI Merge Coins
-- Mainnet: https://sui-merge-coin.x-tool.app/
+- Mainnet: https://sui-merge-coin.cosilabs.com/
 
 A tool to help you merge coins when there are too many objects that cannot be transferred or swapped for other coins
 - Building on [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/) and [Vite](https://vitejs.dev/)
